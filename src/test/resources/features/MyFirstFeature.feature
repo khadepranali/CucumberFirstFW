@@ -5,5 +5,3 @@ Feature: My first features
     When user navigate the url
     Then user search for a specific element
 
-    Scenario: user open browser
-      Given
